@@ -5,7 +5,7 @@ public class oddeven {
         int num = 10;
 
         if (num % 2 == 0) {
-            System.out.println("Even");
+            System.out.println("The number is Even");
         } else {
             System.out.println("Odd");
         }
