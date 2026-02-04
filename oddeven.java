@@ -6,8 +6,10 @@ public class oddeven {
 
         if (num % 2 == 0) {
             System.out.println("The number is Even");
+            
         } else {
             System.out.println("Odd");
         }
     }
 }
+System.out.println("prathibha")
