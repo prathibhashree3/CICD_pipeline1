@@ -11,3 +11,5 @@ public class oddeven {
         }
     }
 }
+System.out.println("Priyanka")
+System.out.println("Viju')
