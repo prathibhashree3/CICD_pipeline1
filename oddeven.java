@@ -13,3 +13,4 @@ public class oddeven {
     }
 }
 System.out.println("prathibha")
+System.out.println("chethana")
